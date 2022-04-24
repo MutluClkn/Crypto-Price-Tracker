@@ -1,5 +1,5 @@
 # Crypto-Price-Tracker
-An app that you can track the exchange rate of BTC. It updates the prices every 60-70 secs.
+It updates the prices every 30 seconds, allowing the user to follow the BTC exchange rate.
 
 Fetchs the data via coingecko API.
 
